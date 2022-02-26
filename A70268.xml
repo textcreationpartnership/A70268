@@ -1,0 +1,570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's great happiness, or, A dialogue between Content and Complaint wherein is demonstrated that a great part of our complaints are causeless, and we have more wealth now, than ever we had at any time before the restauration of His Sacred Majestie / by a real and hearty lover of his king and countrey.</title>
+            <author>Houghton, John, 1640-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70268</idno>
+            <idno type="STC">Wing H2922</idno>
+            <idno type="STC">ESTC R15629</idno>
+            <idno type="EEBO-CITATION">12431257</idno>
+            <idno type="OCLC">ocm 12431257</idno>
+            <idno type="VID">61963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 279:4 or 742:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's great happiness, or, A dialogue between Content and Complaint wherein is demonstrated that a great part of our complaints are causeless, and we have more wealth now, than ever we had at any time before the restauration of His Sacred Majestie / by a real and hearty lover of his king and countrey.</title>
+                  <author>Houghton, John, 1640-1705.</author>
+               </titleStmt>
+               <extent>[8], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for Edward Croft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Houghton. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library and Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Economic conditions --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61963:1"/>
+            <pb facs="tcp:61963:1"/>
+            <p>ENGLAND'S Great Happineſs. OR, A DIALOGUE BETWEEN CONTENT <hi>and</hi> COMPLAINT.</p>
+            <p>WHEREIN Is demonſtrated that a great part of our Complaints are cauſeleſs.</p>
+            <p>And we have more Wealth now, than ever we had at any time before the Re<g ref="char:EOLhyphen"/>ſtauration of his ſacred Majeſtie.</p>
+            <p>By a real and hearty Lover of his King and Countrey.</p>
+            <q>
+               <p>Say not thou, What is the cauſe that the former daies were better than theſe? for thou dost not enquire wiſely concern<g ref="char:EOLhyphen"/>ing this.</p>
+               <bibl>
+                  <hi>Eccl. 7.10.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>Edward Croft,</hi> and are to be ſold at the <hi>Printing-Preſs</hi> in <hi>Cornhill.</hi> 1677.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:61963:2"/>
+            <p>Licenſed,</p>
+            <p>May 14. 1677.</p>
+            <p>
+               <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <pb facs="tcp:61963:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:61963:3"/>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:61963:3" rendition="simple:additions"/>
+            <head>THE CONTENTS OF THIS DIALOGUE.</head>
+            <list>
+               <item>TO export money our great advantage. <hi>p. 3.</hi>
+               </item>
+               <item>To conſume Callico more profitable for us, than other Foreign Linnen. <hi>p. 4.</hi>
+               </item>
+               <item>The <hi>Norway</hi> Trade a profitable Trade. <hi>p. 5.</hi>
+               </item>
+               <item>The <hi>French</hi> Trade a profitable Trade. <hi>ibid.</hi>
+               </item>
+               <item>Gilded Leather in a ſhort time like to be made as cheap here, as in <hi>Holland</hi> or elſewhere. <hi>p. 6.</hi>
+               </item>
+               <item>Variety of Wares for all Markets, a great advan<g ref="char:EOLhyphen"/>tage. <hi>ibid.</hi>
+               </item>
+               <item>High living a gr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at improvement to Arts. <hi>ibid.</hi>
+               </item>
+               <item>An account of ſuch as were great Traders for<g ref="char:EOLhyphen"/>merly. <hi>p. 7.</hi>
+               </item>
+               <item>Invitation of Foreign Arts a great advan<g ref="char:EOLhyphen"/>tage. <hi>p. 8.</hi>
+               </item>
+               <item>Multitudes of people an advantage. <hi>p. 9.</hi>
+               </item>
+               <item>Examples of profit by Foreign Arts. <hi>ibid.</hi>
+               </item>
+               <pb facs="tcp:61963:4"/>
+               <item>A Hearty Wiſh. <hi>p. 10.</hi>
+               </item>
+               <item>Encloſure its advantage. <hi>p. 11.</hi>
+               </item>
+               <item>Horticulture a great advantage. <hi>ibid.</hi>
+               </item>
+               <item>Whether lawful to encloſe. <hi>p. 13.</hi>
+               </item>
+               <item>Reaſons for the Act call<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Trade encourag'd. <hi>ibid.</hi>
+               </item>
+               <item>A way to encloſe in ſpite of the Rabble. <hi>p. 15.</hi>
+               </item>
+               <item>Multitude of Traders a great advantage. <hi>p. 16.</hi>
+               </item>
+               <item>Advantages of many Traders. <hi>p. 17.</hi>
+               </item>
+               <item>A Diſſwaſive from murmuring. <hi>p. 18.</hi>
+               </item>
+               <item>The word Impoſſible a great diſcourager of Arts. <hi>ibid.</hi>
+               </item>
+               <item>Signs of Wealth. <hi>p. 19.</hi>
+               </item>
+               <item>A Compariſon. <hi>p. 20.</hi>
+               </item>
+               <item>Our preſent complaints. <hi>ibid.</hi>
+               </item>
+               <item>A good Reſolution. <hi>p. 21.</hi>
+               </item>
+               <item>Some Scriptures againſt murmuring. <hi>p. 22</hi>
+               </item>
+            </list>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:61963:4"/>
+            <head>The Author to his Book.</head>
+            <lg>
+               <l>MY little Book, when you do look</l>
+               <l>Into the World that's curious;</l>
+               <l>You muſt take care, you don't ill fare</l>
+               <l>From thoſe men that are furious</l>
+            </lg>
+            <lg>
+               <l>Againſt all things that reaſon brings</l>
+               <l>To contradict their humours;</l>
+               <l>And ſcarce are pleas'd, unleſs they're eas'd</l>
+               <l>By ſpreading forth falſe rumours.</l>
+            </lg>
+            <lg>
+               <l>But if that they ought 'gainſt thee ſay,</l>
+               <l>And make it truth appear;</l>
+               <l>Then I'l ſubmit and think it fit,</l>
+               <l>That you the blame ſhould bear.</l>
+            </lg>
+            <lg>
+               <l>But if they will be murm'ring ſtill,</l>
+               <l>Partic' larizing men, that idly ſpend,</l>
+               <l>Or fates do lend a hand to Ruine: then</l>
+               <l>'Twill be but meet <hi>Poor Robin</hi> ſee't,</l>
+               <l>And anſwer them with glee, becauſe ſuch fools</l>
+               <l>Are the fit tools T'employ ſuch men as he</l>
+            </lg>
+            <pb facs="tcp:61963:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:61963:5"/>
+            <head>ENGLAND'S Great Happineſs; OR A DIALOGUE BETWEEN <hi>Content</hi> and <hi>Complaint.</hi>
+            </head>
+            <sp>
+               <speaker>Content.</speaker>
+               <p>HOw do you, Mr. <hi>Complaint? Complaint.</hi> Your Servant Sir, I'm glad to ſee you well: What News?</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Why, all the talk is of the <hi>Blazing Star,</hi> and Whale that's come to <hi>Colchester.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>God grant they forbode no ill News, I'm afraid on't. The French King they ſay is at <hi>Callice.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Well, what then, I hope he knows the way back to <hi>Paris.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>Nay he need not come hither, here
+<pb n="2" facs="tcp:61963:6"/>are enough already to eat us up, I profeſs there's no trade, I don't know what we ſhall do, there is not a penny ſtirring, and men break like mad, if theſe times hold we ſhall be all undone.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>You Complainants are a ſort of the worſt condition'd people in the World, I won't ſay 'tis impoſſible for God to pleaſe you, but I'm ſure his Bleſſings of Peace and Plenty won't.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>Plenty ſay you I yes, here's plenty e<g ref="char:EOLhyphen"/>nough of broken Merchants and Citizens.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>True, one of them of a ſort is too much, but yet I dare ſay there is more wealth in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> at this time, than ever was at any before his Majeſties Happy Reſtauration.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>What then makes the Complaint?</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Becauſe ſuch as you are hardly ever well when you are doing otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>You talk ſtrangely.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Well, I think 'tis ſo eaſie to make out, that while we are drinking a glaſs of Wine, I may convince, or put you to a non-plus.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>Say'ſt thou ſo? Well I'le try, but in<g ref="char:EOLhyphen"/>ſtead of Wine let's drink a diſh of Coffee; for I profeſs whatſoe're you think, I find them hard times.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Well, a match, but I ſuppoſe you go thither becauſe 'tis the Complaining School, and you may be entertain'd with falſe jealouſies an hour for a penny. Come Boy give me a diſh of Tee, for I'm for ſomething that hears and wets, and by its ſweet taſte give ſome reaſon to be con<g ref="char:EOLhyphen"/>tented.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>For all this give me ſome Coffee.</p>
+            </sp>
+            <pb n="3" facs="tcp:61963:6"/>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Well, now let's hear your Complaints, and we'l conſider them one by one.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>There are a great many at preſent, I'le only mention five, <hi>viz.</hi>
+                  <list>
+                     <item>1. Carrying the Money out of the Nati<g ref="char:EOLhyphen"/>on.</item>
+                     <item>2. People's over-high living.</item>
+                     <item>3. The too many Foreigners.</item>
+                     <item>4. The Encloſure of Commons.</item>
+                     <item>5. The multitude of people that run into trade, and ſell ſo cheap that one can't live by a<g ref="char:EOLhyphen"/>nother.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Are theſe your great Complaints? I can hardly forbear laughing, for theſe rightly conſi<g ref="char:EOLhyphen"/>dered are ſome of our main temporal advantages. A great encreaſe whereof would make us ſo rich as to be the envy of the whole world.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>I ſhould be glad if 'twere ſo, I pray let's hear what you can ſay for the exportation of money. There s law againſt it, and a great many wiſe men complain of the <hi>Eaſt-India Company</hi> for that reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>I muſt not gainſay Law; there was once a law to ſtint the making of Malt; but ſome of our Gentlemen are now of other minds, witneſs the Act for exportation of Beer, Ale, and Mum. The complaints againſt the <hi>Eaſt India</hi> Company, if they were for the Nation's happi<g ref="char:EOLhyphen"/>neſs, would they were encouraged, and let it go as our Parliament ſhall in their wiſdom think fit, but ſome wiſe men think it beſt as 'tis, how<g ref="char:EOLhyphen"/>ever 'tis our great advantage to export Money:<note place="margin">Our great advantage to export money.</note> For the aforeſaid Company brings in a great ma<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:61963:7"/>more goods than we conſume, the over-plus whereof is exported: By which part I ſuppoſe none will diſpute a profit. Wherefore whatſoever they bring in more, muſt be all exported, (we be<g ref="char:EOLhyphen"/>ing already over-ſtockt) which undoubtedly will enrich us according to its proportion. But this they cannot do without money. For I ſuppoſe them men that very well underſtand their own intereſt (by which I am apt to judge all) and do think that if they could ſell that cloth in <hi>India</hi> for two and twenty Shillings, which coſts them here twenty, and ſell enough, they would never carry out one penny: for they pay no freight out, and two and twenty Shillings if it be really two and twenty Shillings, will buy more goods than twenty Shillings will do. But if the <hi>Indians</hi> will not buy our goods, they muſt have our mo<g ref="char:EOLhyphen"/>ney, or we muſt knock off that Trade which the <hi>Dutch</hi> will heartily thank you for, and give you a golden god to boot.</p>
+            </sp>
+            <sp>
+               <speaker>Comp.</speaker>
+               <p>Ah but we conſume abundance of their Commodities here.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">It is more profitable for us to conſume <hi>Callico,</hi> than o<g ref="char:EOLhyphen"/>ther foreign linnen.</note> Beſt of all, for the more <hi>Callico</hi> we uſe, the leſs other linnen, and that ſaves abundance of wealth by being to us (at firſt hand eſpeci<g ref="char:EOLhyphen"/>ally) much cheaper; and alſo pulling down the price of forreign linned, I have heard ſome ſay almoſt half. But about this <hi>India</hi> trade you may ſee more at large by ingenious Mr. <hi>Mun;</hi> and a letter call'd The <hi>Eaſt-India</hi> trade a moſt profitable trade to the Kingdom, printed 1677.</p>
+            </sp>
+            <sp>
+               <speaker>Comp.</speaker>
+               <p>This is ſomething, but what think you
+<pb n="5" facs="tcp:61963:7"/>of the <hi>Norway</hi> trade that takes away ſo many of our Crown pieces?<note place="margin">
+                     <hi>Norway</hi> trade a profita<g ref="char:EOLhyphen"/>ble trade.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>I think well of that too, for that kind of timber we cannot be without, and I ſuppoſe our land can be better imploy'd than in great groves of ſuch like. It alſo employs a great ſhip<g ref="char:EOLhyphen"/>ping, and makes us build Houſes, Ships, and Ca<g ref="char:EOLhyphen"/>ſes for Merchandiſe, at cheap rates, and if we might have a thouſand Saw-Mills, for ought I know they might do us as much kindneſs as En<g ref="char:EOLhyphen"/>gine Looms, and for all the talk of the ſhort ſight<g ref="char:EOLhyphen"/>ed Rabble, employ twice the people too.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>You ſpeak plain, but what think you of the <hi>French</hi> trade? which draws away our mo<g ref="char:EOLhyphen"/>ney by whole-ſale. Mr. <hi>Fortrey</hi> whom I have heard you ſpeak well of, gives an account that they get ſixteen hundred thouſand pounds a year from us.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">The <hi>French</hi> Trade a profi<g ref="char:EOLhyphen"/>table Trade.</note> 'Tis a great ſum, but perhaps were it put to vote in a wiſe Council, whether for that reaſon the trade ſhould be left-off, 'twould go in the negative. For Paper, Wine, Linnen, Caſtle-Sope, Brandy, Olives, Capers, Prunes, Kid<g ref="char:EOLhyphen"/>skins, Taffaties, and ſuch like we cannot be with<g ref="char:EOLhyphen"/>out; and for the reſt which you are pleas'd to ſtile <hi>Apes</hi> and <hi>Peacocks</hi> (although wiſe <hi>Solomon</hi> rankt them with Gold and Ivory) they ſet us all a-gog, and have encrea'd among us many con<g ref="char:EOLhyphen"/>ſiderable trades: witneſs, the vaſt multitudes of Broad and Narrow ſilk Weavers, Makers of Points, and white and black Laces, Hats, Fanns, Look<g ref="char:EOLhyphen"/>ing-Glaſſes, and other glaſſes as I'm told the beſt in the world, Paper, Fringes, and gilded
+<pb n="6" facs="tcp:61963:8"/>Leather, which in a ſhort time is like to be made as cheap here, as in <hi>Holland</hi> or any other place. Wine of ſeveral fruits, Sider, Saffron, Honey, Spirits, and ſuch like: and ſome cauſe improve<g ref="char:EOLhyphen"/>ments by farther Manufacture, others we export with great profit, and have a great variety to ſatisfie all ſorts of Markets,<note place="margin">Variety of Wares for all markers a great advantage.</note> cauſing their Neigh<g ref="char:EOLhyphen"/>bours that ſell the like, as Salt, Wine, Linnen, <hi>&amp;c.</hi> to ſell us much cheaper with abundance other ad<g ref="char:EOLhyphen"/>vantages. I muſt confeſs I had rather they'd uſe our goods than money, but if not, I would not loſe the getting of ten pound, becauſe I can't get a hundred; and I don't queſtion but when the <hi>French</hi> gets more foreign trade, they'l give more liberty to the bringing in foreign goods. And I think you'l be aſham'd to deny the Canary's a little when <hi>Spain</hi> yields you ſo vaſt quanti<g ref="char:EOLhyphen"/>ties. I'l ſuppoſe <hi>John a Nokes</hi> to be a <hi>Butcher, Dick a Styles</hi> an <hi>Exchange man,</hi> your ſelf a <hi>Law<g ref="char:EOLhyphen"/>yer,</hi> will you buy no Meat or Ribbands, or your wife a fine <hi>Indian</hi> Gown or Fann, becauſe they will not truck with you for Indentures, which they have no need of? I ſuppoſe no, but if you get money enough of others, you care not though you give it away <hi>in ſpecie</hi> for theſe things: I think 'tis the ſame caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>'Tis well if it be as you ſay, but what think you of your next propoſal? Our High Living.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">A general High Living a great improve<g ref="char:EOLhyphen"/>ment to arts.</note> He that ſpends more than he is able to pay for, is either fool or knave, or in great ne<g ref="char:EOLhyphen"/>ceſſity; but I ſuppoſe not this to be the Nati<g ref="char:EOLhyphen"/>ons caſe; for if it were, we muſt owe more to
+<pb n="7" facs="tcp:61963:8"/>other Nations than they to us, though we gave them all we have to boot, which if you think, moſt of the Merchants that have foreign Facto<g ref="char:EOLhyphen"/>ries in the <hi>Eaſt</hi> or <hi>Weſt Indies, Africk, Streights, Spain, Portugal, Baltick, Eaſt Countrys, Hanſe-Towns, Scotland, Ireland,</hi> with <hi>France</hi> and <hi>Hol<g ref="char:EOLhyphen"/>land</hi> too, will condemn you. But our height puts us all upon an induſtry, makes every one ſtrive to excel his fellow, and by their ignorance of one anothers quantities, make more than our markets will preſently take off; which puts them to a new induſtry to find a foreign Vent, and then they muſt make more for that market; but ſtill having ſome over-plus they ſtretch their wits farther, and are never ſatisfied till they in<g ref="char:EOLhyphen"/>groſs the trade of the Univerſe. And ſomething is return'd in lieu of our exportations, which makes a further employment and emprovement.</p>
+               <p>If it won't do this, why do you complain of <hi>France</hi> getting our money for their trifles? if it will, why ſhould we not encreaſe it as high as ever it is poſſible? If we make ſix conſidera<g ref="char:EOLhyphen"/>ble Laces and export but one, I ſuppoſe for it we may bring in more money than the firſt coſt of them all; which is far better than to im<g ref="char:EOLhyphen"/>port one and let our people ſit idle for want of imployment.</p>
+               <p>
+                  <note place="margin">The former great traders.</note> The <hi>Venetian, Spaniard, Portugeeze, Dutch,</hi> and <hi>Engliſh</hi> have drove the great trade of the world, and fetcht the gold and ſilver: but when they had done, they eagerly carried it to <hi>France</hi> to buy their guegawes, and thereby made them always conſiderable: and I had rather get a thou<g ref="char:EOLhyphen"/>ſand
+<pb n="8" facs="tcp:61963:9"/>pound by lace and fringes, than nine hun<g ref="char:EOLunhyphen"/>dred by the beſt broad-cloth that ever I yet ſaw.</p>
+               <p>That honeſt way that finds moſt employment and gets moſt money, is ſure the beſt for any Na<g ref="char:EOLhyphen"/>tion, and this fine manufacture joyn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to our ſhipping will perhaps make us the moſt potent the Sun ſhines on.</p>
+               <p>Take away all our ſuperneceſſary trades, and we ſhall have no more than Tankard-Bearers, and Plow-men; and our City of <hi>London</hi> will in ſhort time be like an <hi>Iriſh</hi> Hut, or perhaps <hi>Carthage</hi> mentioned in <hi>Virgil Traveſte.</hi>
+               </p>
+               <p>If you have reaſon, here's enough to ſatisfie: but if not, ſhould I bring ten thouſand undenia<g ref="char:EOLhyphen"/>ble arguments you'd ſtill complain.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>I meet but with very few of your mind: but I pray let's hear your thoughts of the next propoſal? which is, That 'tis our happineſs to have abundance of Foreigners, for I'm ſure the general cry is that they eat the bread out of our mouths, they ſell their goods when we can't, they work cheaper than we, live in holes, pay neither ſcot nor lot; and if we ſhould have many more of them, ſure we ſhould have nothing to do.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">Invitation of Foreigners a great advan<g ref="char:EOLhyphen"/>tage.</note> You are never well full or faſting; you cry up the <hi>Dutch</hi> to be a brave people, rich, and full of Cities, that they ſwarm with people as Bee-hives with Bees; if a plague come, they are fill'd up preſently and ſuch like; yet they do all this by inviting all the World to come and live among them. You complain of <hi>Spain</hi> becauſe
+<pb n="9" facs="tcp:61963:9"/>their Inquiſition is ſo high, they'l let no body live among them, and that's a main cauſe of their weakneſs and poverty. You find fault becauſe ſome of our people go to <hi>Ireland,</hi> and the Plan<g ref="char:EOLhyphen"/>tations, and ſay we want people at home to fill our Cities and Countrie-towns, and yet you'l allow none to come and fill up their rooms.<note place="margin">The advanta<g ref="char:EOLhyphen"/>ges of Multi<g ref="char:EOLhyphen"/>tudes.</note> Will not a multitude of people ſtrengthen us as well as the want of them weaken <hi>Spain?</hi> ſure it will. Would you not be glad if the Duke of <hi>Lorrain</hi> ſhould deſtroy as many Villages in <hi>France</hi> as are deſtroy'd in <hi>Alſatia,</hi> and thereby deſtroy 100000 people? I dare ſay the moſt part of you would. I pray then would it not do as well if an hundred thouſand <hi>French</hi> would run away leaving their houſes to drop, and fight a<g ref="char:EOLhyphen"/>gainſt the <hi>French</hi> King, or at leaſt work for mo<g ref="char:EOLhyphen"/>ney to pay taxes to them that will? I think you won't gainſay it. In Sr. <hi>Walter Raleigh</hi>'s obſer<g ref="char:EOLhyphen"/>vations concerning the cauſes of the magnifi<g ref="char:EOLhyphen"/>cency and opulency of Cities, 'twas the beſt po<g ref="char:EOLhyphen"/>licy that old <hi>Rome</hi> had, and by it they were brought to their height. <hi>Tamerlan</hi> the great was of the ſame mind, and <hi>Conſtantinople</hi> owes its greatneſs to the ſame contrivance. Would not Foreigners living here conſume our corn, cattle, cloth, coals, and all kind of things we uſe? and would not that cauſe our lands to be better till'd, and our trades increas'd? would they not bring ſeveral new trades with them, or help to encreaſe thoſe we have? witneſs the Flemmings in the time of <hi>Edward</hi> the third,<note place="margin">Examples of profit by For<g ref="char:EOLhyphen"/>reigners.</note> the Colonies of <hi>Colcheſter, Canterbury,</hi> and <hi>Norwich,</hi>
+                  <pb n="10" facs="tcp:61963:10"/>the Silk-trade in <hi>Spittle-Fields,</hi> the Tapiſtrey<g ref="char:EOLhyphen"/>makers in <hi>Hatton Garden, Clarkenwel,</hi> and elſe<g ref="char:EOLhyphen"/>where, M<hi rend="sup">r</hi> 
+                  <hi>Todin</hi> the rare Pewterer in St. <hi>Mar<g ref="char:EOLhyphen"/>tins Lane,</hi> the Husbandmen in the <hi>Fenns,</hi> and di<g ref="char:EOLhyphen"/>vers others, and doth not every Trades-man a<g ref="char:EOLhyphen"/>mong them employ two or three <hi>Engliſh</hi> to at<g ref="char:EOLhyphen"/>tend them either in making tools, winding ſilk, or ſuch like, beſides buying all their materials here? Do you think the firſt rough materials of a piece of ſilk of ſix pound a yard coſts twen<g ref="char:EOLhyphen"/>ty Shillings? is not the other five pound bet<g ref="char:EOLhyphen"/>ter earnt and ſpent here, than to give the whole ſix pound to <hi>France</hi> for't? No man in <hi>England</hi> loves it better than I, and I love no Nation more than another, but for their vertues, or as they relate to the welfare of <hi>England:</hi> but ſome of our great complainers will ſpend a groat when they are not worth two pence, and work but two or three days in the week, therefore others out-do them.</p>
+               <p>Strangers pay neither ſcot nor lot, 'tis true, but 'tis becauſe they are diſturb'd, and are hard<g ref="char:EOLhyphen"/>ly ſuffer'd (or at leaſt encourag'd) to take hou<g ref="char:EOLhyphen"/>ſes, but otherwiſe they'd quickly be like us, and the next generation would not be known from Engliſh.</p>
+               <p>You ſeldom hear of any diſturbance they make in the State, for they are not all of one mind, and cannot agree if they would, they come for ſafety, quietneſs, and livelyhoods, for which and other good reaſons, if the Paliament think fit,<note place="margin">A hearty Wiſh.</note> I could wiſh there would twenty thouſand come in next year.</p>
+            </sp>
+            <pb n="11" facs="tcp:61963:10"/>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>At this rate all the World would be invited hither.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Amen, ſay I; for then our King would be univerſal Monarch, and I'd never fear a pre<g ref="char:EOLhyphen"/>judice either to Church or State if all were to be hang'd that ſhould teach them cauſeleſs complaining principles.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>Enough of this, but if you are for Encloſures the poor will complain of you, and curſe you to the pit of Hell: and a great many of the rich will give you but little thanks.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>All this ſignifies nothing;<note place="margin">Encloſure and</note> one good reaſon prevails more with me than all their cries and curſes, if they were ten fold: and I'm ſure that God is a God of reaſon. As for the Gentry I reſpect them highly, but a great many are more rul'd by a vulgar error, and falſe maxims, than the dictates of their own reaſon. But if I thought it would not be much for the advantage both of Gentry and Commonalty I would not ſay a word more on't. But I pray conſider that inclos'd ground will ſometimes yield treble to what common will,<note place="margin">Its advantage.</note> but if ſow'd with Clover, Sant-foin or ſuch like, ſometimes ſix, eight, or tenfold, when Corn bears a good price, and 'tis for the Land's advantage 'tis plow'd too, and after the Crop is off ſow'd with Turnips or ſuch like, and this with the help of good tillage and dung, (which our good Husband<g ref="char:EOLhyphen"/>men know now pretty well how to procure) done every year, when the other muſt lye waſt one in three.<note place="margin">Horticulture a great advan<g ref="char:EOLhyphen"/>tage.</note>
+               </p>
+               <p>A great deal will be turn'd into Orchards
+<pb n="12" facs="tcp:61963:11"/>and Gardens, four or five acres of which ſome<g ref="char:EOLhyphen"/>times maintains a family better, and employs more labourers than fifty acres of other ſhall do. Hops, Saffron, Liquoriſh, Onions, Pota<g ref="char:EOLhyphen"/>toes, Madder, Artichocks, Aniſeeds and Cole<g ref="char:EOLhyphen"/>ſeeds will thrive but ill in Common Fields, and I ſuppoſe none will denie an Acre of theſe to yield more money than ſo much Wheat: Whi<g ref="char:EOLhyphen"/>ther goes it then? why, ſurely into the owners purſe or labourers pockets.</p>
+               <p>For the cry that the poor will be ſtarv'd, it is not worth a ruſh, for few of them make the benefit for lack of ſtock, and perhaps they ſpend as much time in looking after their titts, runts, and tupps, as would gain them by an in<g ref="char:EOLhyphen"/>different Handy craft, twice the profit.</p>
+               <p>And how that pariſh that traded but for ten thouſand pounds a year, and now for twenty thouſand, ſhould be more likely to famiſh, and twice or thrice the employment for the poor ſtarve them, I confeſs is to me a paradox. E<g ref="char:EOLhyphen"/>ver ſince old <hi>Tuſſer</hi>'s time, it has been obſerved that where there's moſt common, there's leaſt good building and moſt poor.</p>
+               <p>Encloſure muſt needs encreaſe more great and ſmall cattle, and an encreaſe of Hydes, Tallow, and Wool, with finer manufactures of them than formerly, can never either depopulate or impoveriſh.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>I muſt confeſs that moſt men yield it to be moſt profitable. But is it lawful to take away that we have enjoy'd time out of mind? and we muſt not do evil that good may come on't.</p>
+            </sp>
+            <pb n="13" facs="tcp:61963:11"/>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">Whether it be lawful to en<g ref="char:EOLhyphen"/>cloſe.</note> I muſt confeſs this is your main argu<g ref="char:EOLhyphen"/>ment, and I being neither Divine nor Lawyer perhaps may not give to it ſo good an anſwer as ten thouſand wiſer men can do. But 'tis well that I have prov'd it profitable: But I ſup<g ref="char:EOLhyphen"/>poſe this Iſland before it was inhabited to be all Common; which was ſomething altered by the firſt Occupants, and encreas'd according to the good husbandry, populacy, and needs of the people, and why this preſcription ſhould not prevail as much as yours, I know not. It doth in <hi>America,</hi> and I believe all the World over. In <hi>China</hi> I hear there is not an Acre of Common Land.</p>
+               <p>I muſt confeſs I know no Statute that gives full power to encloſe all the Common-Fields, in the Kingdom; but in my weak judgment there are ſeveral that do much encourage it. Eſpecially when it is for the advantage of the whole; witneſs the two firſt Acts for encloſing the Fenns, and the 4 <hi>Ja<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 11. for part of <hi>He<g ref="char:EOLhyphen"/>refordſhire,</hi> caus'd by the good husbandry of ſome of the inhabitants. And I think the 3 <hi>Edw.</hi> 6. <hi>&amp;</hi> 3. will go a great way. And the inducement and ground of the Act call'd Trade encouraged 15 <hi>Car.</hi> 2.7. runs thus <hi>verbatim.</hi>
+               </p>
+               <q>
+                  <p>
+                     <note place="margin">The reaſons for the Act call'd Trade encou<g ref="char:EOLhyphen"/>raged.</note> 
+                     <hi>Foraſmuch as the encouraging of Tillage ought to be in an eſpecial manner regarded and endeavoured, and the ſureſt and effectuallest means of promoting and advancing any trade, occupation or myſtery, being by rendring it pro<g ref="char:EOLhyphen"/>fitable to the uſers thereof, and great quantities
+<pb n="14" facs="tcp:61963:12"/>of Land within this Kingdom for the preſently<g ref="char:EOLhyphen"/>ing in a manner waſte, and yielding little, which might thereby be improv'd to conſiderable profit and advantage (if ſufficient encouragement were given for the laying out of coſt and labour on the ſame) and thereby much more Corn produced, greater numbers of People, Horſes, and Cattle employed, and other Land alſo rendred more va<g ref="char:EOLhyphen"/>luable.</hi>
+                  </p>
+               </q>
+               <p>How far the inducements and grounds of Acts of Parliament run, I know not, but they ſhew their deſigns; and how this can be done better than by Encloſure, my ignorance won't reach to; but I have prov'd it moſt advantage<g ref="char:EOLhyphen"/>ous to the owner, and I think wealth and a treble labour, will quickly encreaſe People, Hor<g ref="char:EOLhyphen"/>ſes, and other Cattle, the plenty whereof, of neceſſity muſt quickly make other Land more valuable.</p>
+               <p>If leave were given, all the barren land in <hi>England</hi> I ſuppoſe would ſoon be improv'd.</p>
+               <p>I believe you'l be aſham'd to urge the 25. of <hi>Hen.</hi> 8. and 13. becauſe the cheapneſs of our Corn, Cattle, Wool, Pigs, Geeſe, Hens, Chick<g ref="char:EOLhyphen"/>ens, and Eggs, are in a great part the ground of your complaint.</p>
+               <p>I chiefly aim at that we call Common Field-Land, where men claim a propriety, and can ſay. Thus many acres are mine; but for the o<g ref="char:EOLhyphen"/>ther that lye always open if the Lord of the Manour gets all in his own hand, or the Pa<g ref="char:EOLhyphen"/>riſhioners can agree, I wiſh 'twere all ſo ſerv'd,
+<pb n="15" facs="tcp:61963:12"/>and I think there's few with good reaſon can be againſt it.</p>
+               <p>As for the Kings Foreſts and Chaces, if they were imparkt, and kept to himſelf, I believe timber would thrive ne'r the worſe, or the neighbouring corn, nor perhaps would there be a leſs breed of good Horſes; But arguments are endleſs. Boy give met'other diſh of Tee.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>I pray do nothing raſhly, but drink firſt. Well ſuppoſe I grant that you have law and reaſon enough on your ſide: what will you do againſt the beggarly multitude, that will pull down your Fences, turn Cattel in, and ſpoil your Corn, or what other improvements you ſhall make in your new Encloſure? if you ſue them you know the old Proverb, <hi>Sue a Beggar,</hi> &amp;c. and they have nothing to loſe, their puniſhment will ne'r make you ſatisfaction, and except you have a large purſe, and courage too you may chance be tired.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">A way to in<g ref="char:EOLhyphen"/>cloſe in ſpite of the Rabble.</note> 'Tis true, this is a great impediment to the good work, but a great many have con<g ref="char:EOLhyphen"/>quer'd it, and I believe had the former ages went the ſame way to work, which an ingenious Juſtice, and another of my good friends (whom you well know) have done, we ſhould long e'r this have had more Milk and Honey. For in<g ref="char:EOLhyphen"/>ſtead of narrow Ditches and high banks, which might quickly be thrown down and fill'd with eaſe, they have made their Ditches, ſeven, eight, or ten foot wide, ſix foot deep, and car<g ref="char:EOLhyphen"/>ried away all that ſhould make a hurtful bank, planted quick, and with Damms, ſtop water to.
+<pb n="16" facs="tcp:61963:13"/>fill up as high as they can or think neceſſary. By this means the Rabble want materials to re<g ref="char:EOLhyphen"/>fill, unleſs they'l bring it with them, or dig one ditch to fill another. But as what relates to Ryots, Treſpaſſes, and other law tricks, the Countrey-Men I believe are wiſe enough.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>This is a way indeed, ſurely this will do or nothing, but let them incloſe or do in the fields what they will, what can you ſay for the multitude of Trades-men?<note place="margin">Multitude of traders a great advantage.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Say for them! I have ſaid enough in what I ſaid juſt now of Foreigners: But how<g ref="char:EOLhyphen"/>ever ſomething more.</p>
+               <p>That man that gets moſt money over and a<g ref="char:EOLhyphen"/>bove his expences, ſurely will be richeſt; ſo likewiſe will that trade: but ſuppoſe there were formerly twenty Linnen-Drapers (or any o<g ref="char:EOLhyphen"/>ther Traders) and they clear'd each five hun<g ref="char:EOLhyphen"/>dred pounds a year, it will amount to ten thou<g ref="char:EOLhyphen"/>ſand pounds; but now there are forty Drapers and by under-ſelling each other they clear each but four hundred pounds a year, this will make ſixteen thouſand pounds. I ſuppoſe this Company do plainly thrive: But ſhould eigh<g ref="char:EOLhyphen"/>ty get but three hundred pounds each, it would amount to four and twenty thouſand pounds beſides the employment of four times the Ships and Labourers, with the like encreaſe of his Majeſties Cuſtoms, and this is the caſe of moſt of our old trades, only beſides the quantity of men, the particulars have moſt of them ſo much in<g ref="char:EOLhyphen"/>creas'd their quantities, that with leſs profit
+<pb n="17" facs="tcp:61963:13"/>they every year ſpend more, and give their Children better portions.</p>
+               <p>Moreover there are a multitude of new Trades; and that variety of Arts ſhould undo a Nati<g ref="char:EOLhyphen"/>on, I believe was never known in this world or in <hi>
+                     <g ref="char:V">Ʋ</g>topia.</hi>
+               </p>
+               <p>When you keep Bees, you are loth to ſuf<g ref="char:EOLhyphen"/>fer Drones among them. Good Bees are the ſeventeen Provinces, and you cry them up to the skies, and ſay that two or three years peace will make amends for all the Calamities they have endured this War: But the like Induſtry in <hi>England,</hi> added to a prodigious Plenty, will quite ſpoil us.</p>
+               <p>
+                  <note place="margin">The advanta<g ref="char:EOLhyphen"/>ges of many Traders.</note> Do not ſome of our Trades-men ſpend one or two hundred pounds a year, whoſe parents ne<g ref="char:EOLhyphen"/>ver ſaw forty Shillings together of their own in their lives? Doth it not make the Capons and Cuſtards go off at a good rate? Doth it not migh<g ref="char:EOLhyphen"/>tily encreaſe his Majeſties revenue, by Cuſtoms, Exciſe, and Chimney-Money? Doth it not make a tax light, by having many Shoulders to bear the burden? And were it not for this, his Ma<g ref="char:EOLhyphen"/>jeſtie muſt like <hi>Spain</hi> and <hi>Denmark,</hi> when he hath occaſion hire ſhips, from perhaps his ill-hu<g ref="char:EOLhyphen"/>mour'd Neighbours. But God be thanked things are in a better caſe, and if I ſhould live forty years longer, I hope to ſee <hi>London</hi> as big a<g ref="char:EOLhyphen"/>gain, and all the Towns in <hi>England</hi> ſtrive to i<g ref="char:EOLhyphen"/>mitate it.</p>
+            </sp>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>Well, I'l trouble you no more at pre<g ref="char:EOLhyphen"/>ſent, and confeſs that what you ſay ſeems to have
+<pb n="18" facs="tcp:61963:14"/>a great deal of truth in't; but I don't know, people do complain.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>
+                  <note place="margin">A diſſwaſive from murmu<g ref="char:EOLhyphen"/>ring.</note> And ever will; but I prithee leave off this humour of murmuring, either diſprove what I have ſaid, or for ſhame bluſh to com<g ref="char:EOLhyphen"/>plain. Remember that you are a rational crea<g ref="char:EOLhyphen"/>ture, don't make your own and others lives un<g ref="char:EOLhyphen"/>comfortable by refuſing to enjoy thoſe Bleſſings Providence hath heap'd upon you: St. <hi>Paul</hi> with far leſs liv'd a happier life. What Com<g ref="char:EOLhyphen"/>fort can his Majeſtie have, when for all his good Government, Care, and Protection, you reward him with a meſs of Complaints? Don't Judaize and complain more when you are fed with Man<g ref="char:EOLhyphen"/>na and Quails, than when you fed on Leeks and Garlick. Murmur not like <hi>Corah</hi> and his Crew when your King is <hi>a Moſes.</hi> You know that of 600000. that came from <hi>Aegypt,</hi> there went but two into the <hi>Land of Canaan.</hi> Moſt of the reſt periſhed for this crime. When <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> beg'd any great Matter of God, he com<g ref="char:EOLhyphen"/>memorated his former loving kindneſſes, and O God of <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> was of great concern in a Jews petition. 'Tis the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> re<g ref="char:EOLhyphen"/>membrance of the <hi>French</hi> King's Victories makes him go on with courage:<note place="margin">The word <hi>im<g ref="char:EOLhyphen"/>poſſible</hi> a great diſcourager of Arts.</note> And would we but conſider the great things we have done, it would perhaps make us believe nothing to be impoſſible either in Arms or Arts. Let's bleſs God for all his mercies, and particularly for our good King, whoſe greateſt Care hath been to keep us in peace, and procure us plenty, which I think will prove better arguments to
+<pb n="19" facs="tcp:61963:14"/>gain any needful thing, than the irkſom and cauſeleſs complaints of a thouſand generations. The ſum of all is this;<note place="margin">Signs of Wealth.</note> If we have great Ma<g ref="char:EOLhyphen"/>gazines for War, and multitudes of brave Ships; If we have a Mint employ'd with more Gold and Silver than in a conſiderable time they can well coin; If it be an affront to cauſe one to drink in any worſe mettle than Silver, if great part of our utenſils be of the ſame; if our Trade be ſtretcht as far as any trade is known; if we have ſix times the Traders and moſt of their Shops and Ware-houſes better furniſht than in the laſt Age; if we have abundance of more good debts abroad than credit from thence; if many of our poor Cotagers children be turn'd Merchants and ſubſtantial Traders; if our good Lands be made much better, and our bad have a ſix-fold improvement; if our houſes be built like Palaces, over what they were in the laſt Age, and abound with plenty of coſtly furni<g ref="char:EOLhyphen"/>ture; and rich Jewels be very common; and our Servants excel in finery the Great ones of ſome Neighbour-Nations; if we have moſt part of the trade of the World, and our Cities are perhaps the greateſt Magazines thereof; if af<g ref="char:EOLhyphen"/>ter a deſtructive plague and conſuming fire, we appear much more glorious; if we have an u<g ref="char:EOLhyphen"/>niverſal Peace, and our King in ſuch renown that he is courted by all his Neighbours, and theſe only the marks of poverty, then I have been under a great miſtake: But if it doth otherwiſe appear, as certainly it doth to all ra<g ref="char:EOLhyphen"/>tional
+<pb n="20" facs="tcp:61963:15"/>men. Then I may ſtill go on with my maxime and ſay,</p>
+               <p>
+                  <hi>We have more Wealth now, than ever we had at any time before the Reſtauration of his Sacred Majeſtie.</hi>
+               </p>
+               <p>The Jews were never well ſetled till the time of <hi>Saul,</hi>
+                  <note place="margin">A Compariſon.</note> and then Wealth flow'd in like water ſpilt upon the ground: you might ſee it coming, and it being a ſtranger they ſtood gazing and cry'd ahah! witneſs, <hi>David</hi>'s lamentation over <hi>Saul, He clothed them in Scarlet, and put or<g ref="char:EOLhyphen"/>naments of Gold upon their apparel.</hi>
+                  <note place="margin">2 Sam. 1.24.</note> But in <hi>David</hi>'s own time it grew to a pretty handſom brook; but in <hi>Solomon</hi>'s time to a profound River. But then the cuſtom of their Wealth took away the ſenſe of it,<note place="margin">Our now com<g ref="char:EOLhyphen"/>plaints.</note> they cry'd that times were hard, there was nothing to be got, they were the old ones that got eſtates, he that would get one then, muſt have tug'd hard for't; and that ſuch like talk they had, is witneſs <hi>Solo<g ref="char:EOLhyphen"/>vion</hi>'s reproof, <hi>Say not thou, the former times were better than theſe, for thou doſt not enquire miſely concerning this.</hi>
+               </p>
+               <p>Juſt thus it hath been with <hi>England,</hi> Queen <hi>Elizabeth</hi>'s time was like <hi>Saul</hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, when by ta<g ref="char:EOLhyphen"/>king a few <hi>Spaniſh</hi> Ships, and almoſt beginning a Navigation, made us cry ahah! In the time of King <hi>James</hi> and <hi>Charles,</hi> for want of Silver the Gold made a pretty handſom gliſtering, but now Gold doth much abound, and Silver is hard<g ref="char:EOLhyphen"/>any thing eſteemed of. It flows in ſo often like a deep river, there is hardly any notice ta<g ref="char:EOLhyphen"/>ken of it.</p>
+            </sp>
+            <pb n="21" facs="tcp:61963:15"/>
+            <sp>
+               <speaker>Compl.</speaker>
+               <p>I muſt confeſs I can't anſwer you, but ſurely that which every body ſaith, muſt needs be true.</p>
+            </sp>
+            <sp>
+               <speaker>Cont.</speaker>
+               <p>Well if you are ſo wilful as not to be convinc'd, I'm ſorry, but however this advantage to my ſelf I'l reap,<note place="margin">A good reſolu<g ref="char:EOLhyphen"/>tion.</note> I'l give God thanks for his great Bleſſings, and enjoy them while you ſit murmuring and repining for what you don't want, and like <hi>Midas</hi> ſtarve in a monſtrous plenty.</p>
+               <p>However conſider what follows.</p>
+               <p>
+                  <hi>Neither murmur ye as ſome of them alſo mur<g ref="char:EOLhyphen"/>mured,</hi>
+                  <note place="margin">1 Cor. 10.10.</note> 
+                  <hi>and were deſtroyed of the deſtroyer.</hi>
+               </p>
+               <p>
+                  <hi>Wo unto them,</hi>
+                  <note place="margin">Jude 11.</note> 
+                  <hi>for they have periſhed in the gainſaying of</hi> Core.</p>
+               <p>
+                  <hi>Theſe are ſpots in your Feaſts of Charity.</hi>
+                  <note place="margin">12.</note>
+               </p>
+               <p>
+                  <hi>And are murmurers and complainers,</hi>
+                  <note place="margin">16.</note> 
+                  <hi>walk<g ref="char:EOLhyphen"/>ing after their own luſts.</hi>
+               </p>
+               <p>
+                  <hi>Your murmurings are not againſt us,</hi>
+                  <note place="margin">Exod. 16.18.</note> 
+                  <hi>but a<g ref="char:EOLhyphen"/>gainſt the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Do all things without murmurings.</hi>
+                  <note place="margin">Phil. 2.14.</note>
+               </p>
+               <p>
+                  <hi>And the people ſpake againſt God,</hi>
+                  <note place="margin">Numb. 21.5.</note> 
+                  <hi>and againſt</hi> Moſes, <hi>wherefore have you brought us up out of</hi> Aegypt, <hi>to die in the Wilderneſs? For there is no Bread, neither is there any water, and our ſoul loatheth this light bread.</hi>
+               </p>
+               <p>
+                  <hi>And the Lord ſent Fiery Serpents among the peo<g ref="char:EOLhyphen"/>ple,</hi>
+                  <note place="margin">6.</note> 
+                  <hi>and they bit the people, and much people of Iſ<g ref="char:EOLhyphen"/>rael dyed.</hi>
+               </p>
+               <p>
+                  <hi>Many when a thing was lent them reckoned it to be found,</hi>
+                  <note place="margin">Eccluſ. 29.4.</note> 
+                  <hi>and put them to trouble that helped them.</hi>
+               </p>
+               <p>
+                  <hi>Till he hath received he will kiſs a mans hand,</hi>
+                  <note place="margin">5.</note> 
+                  <hi>and for his Neighbours money he will ſpeak ſub<g ref="char:EOLhyphen"/>miſly:
+<pb n="22" facs="tcp:61963:16"/>but when he ſhould repay, he will prolong the time and return words of grief, and COM<g ref="char:EOLhyphen"/>PLAIN OF THE TIMES.</hi>
+               </p>
+               <p>
+                  <hi>He that is filthy,</hi>
+                  <note place="margin">Rev. 22.11.</note> 
+                  <hi>let him be filthy ſtill.</hi>
+               </p>
+               <p>Come Boy take money.</p>
+               <p>However dear Friend, farewel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61963:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
